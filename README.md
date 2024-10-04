@@ -67,17 +67,44 @@ Advanced student of the **Artificial Intelligence Technologist Degree**, eager t
 - Time Series
 - Data Cleaning
 
----
-
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23E35B3D.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%230E7E2D.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) **Python**  
+  Advanced Algorithmic Thinking with Python, Data Analysis with Python, Machine Learning with Python
+
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) **Pandas**  
+  Pandas, Geospatial Analysis
+
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23E35B3D.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) **SQL Server**  
+  SQL Server 2022 for Developers, Data Warehouse with SQL Server 2022, Advanced SQL for Application Development
+
+- ![Power BI](https://img.shields.io/badge/Power%20BI-%230E7E2D.svg?style=for-the-badge&logo=powerbi&logoColor=white) **Power BI**  
+  Power BI, Data Visualization with Matplotlib and Seaborn
+
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **GitHub**  
+  GitHub for Developers
+
+- ![Hadoop](https://img.shields.io/badge/Hadoop-%23E24329.svg?style=for-the-badge&logo=apachehadoop&logoColor=white) **Hadoop**  
+  Hadoop
+
+- ![Jira](https://img.shields.io/badge/Jira-%23000545.svg?style=for-the-badge&logo=jira&logoColor=white) **Jira**  
+  Project management with Jira
+
+- ![Snowflake](https://img.shields.io/badge/Snowflake-%2300A3E0.svg?style=for-the-badge&logo=snowflake&logoColor=white) **SnowflakeDB**  
+  SnowflakeDB
+
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300A3E0.svg?style=for-the-badge&logo=matplotlib&logoColor=white) **Matplotlib**  
+  Data Visualization with Matplotlib and Seaborn
+
+- ![Seaborn](https://img.shields.io/badge/Seaborn-%23C72A29.svg?style=for-the-badge&logo=seaborn&logoColor=white) **Seaborn**  
+  Data Visualization with Matplotlib and Seaborn
+
+- ![Neo4j](https://img.shields.io/badge/Neo4j-%23F5A623.svg?style=for-the-badge&logo=neo4j&logoColor=white) **Neo4j**  
+  Neo4j Essential: Graph Oriented Databases
 
 ---
+
+
 
 ## Contact
 
