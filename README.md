@@ -28,7 +28,7 @@ Advanced student of the **Artificial Intelligence Technologist Degree**, eager t
 
 ## Education
 
-- **Artificial Intelligence Technologist (in progress)**  
+- **Artificial Intelligence Technologist**  
   National University of Rosario (2023 - 2025)
 
 - **Financial Markets Analyst**  
