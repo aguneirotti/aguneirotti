@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Professional Profile
 
-Advanced student of the **Artificial Intelligence Technologist Degree**, eager to join a dynamic and challenging environment as a **Python Developer Jr.** or **Data Analyst Jr.** Seeking opportunities that foster professional growth, skill development, and hands-on experience to contribute meaningfully while advancing my career. For more information, feel free to reach out!
+I am currently focused on growing as an AI Engineer, building on my experience with Python, SQL, automation, data workflows, and LLM evaluation. I enjoy solving practical problems and turning complex tasks into reliable, scalable solutions. In my next role, I want to contribute to real AI products, learn from a strong team, and create measurable impact.
 
 ---
 
