@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Agustin Neirotti
 
-**Data Analyst Jr.** | **Python Developer Jr.** | **Database Administrator**
+**Artificial Intelligence Technician | Python Developer | Machine Learning Engineer | Prompt Engineer**
 
 ---
 
